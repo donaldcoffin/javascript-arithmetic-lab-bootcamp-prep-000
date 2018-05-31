@@ -1,7 +1,5 @@
 var highnumber = 10
 var lownumber = 2
-function add(){
-  highnumber + lownumber
+function add(a,b){
+  return a + b
 }
-
-  
