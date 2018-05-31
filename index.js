@@ -20,6 +20,10 @@ function inc(number){
   return number += 1
 }
 
-function dec(number){
-  return number -= 1
+function dec(n){
+  return n -= 1
+}
+
+function makeInt(number){
+  return parseInt(number,10)
 }
