@@ -20,6 +20,6 @@ function inc(number){
   return number += 1
 }
 
-function decrements(number){
+function dec(number){
   return number -= 1
 }
