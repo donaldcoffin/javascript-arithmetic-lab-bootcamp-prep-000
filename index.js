@@ -15,6 +15,11 @@ function multiply(a,b){
 function divide(a,b){
   return a / b
 }
+
 function inc(number){
-  return number+= 1
+  return number += 1
+}
+
+function decrements(number){
+  return number -= 1
 }
