@@ -1,4 +1,7 @@
-1 + 2
-2 - 1
-2 * 3
-4 / 2
+var highnumber = 10
+var lownumber = 2
+function add(){
+  highnumber + lownumber
+}
+
+  
