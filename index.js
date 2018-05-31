@@ -16,5 +16,5 @@ function divide(a,b){
   return a / b
 }
 function inc(number){
-  return number++
+  return number+= 1
 }
